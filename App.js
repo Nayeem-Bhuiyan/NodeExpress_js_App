@@ -76,7 +76,7 @@ function SelectData(con) {
     })
 }
 
-module.exports.SelectData=SelectData;
+//module.exports.SelectData=SelectData;
 
 
 
