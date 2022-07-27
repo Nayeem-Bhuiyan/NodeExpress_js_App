@@ -15,8 +15,6 @@ con.connect(function (error) {
         //DeleteDataByID(con)
        //UpdateData(con);
        SelectData(con);
-
-
     }
 });
 
